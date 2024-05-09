@@ -6,6 +6,7 @@ I'm a recent university graduate and an aspiring web developer (frontend/fullsta
 - SQL, GIT
 
 <br />I'm currently job hunting and focusing on creating personal projects to further expand my skills and knowledge. 💜
+<br />In my spare time I'm a gamer, game dev, artist, crocheter and cartoon/comic book enthusiast. 💜
 <!--
 **DominikaDuralek/dominikaduralek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
