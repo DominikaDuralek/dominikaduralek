@@ -5,6 +5,6 @@ I'm a recent university graduate and an aspiring web developer (frontend/fullsta
 - NodeJS, Java, Spring Boot
 - SQL, GIT
 
-<br />I'm currently job hunting and focusing on creating personal projects to further expand my skills and knowledge.
-<br />In my spare time I'm a gamer, amateur game dev, artist, crocheter and cartoon/comic book enthusiast.
+<br />💜 I'm currently job hunting and focusing on creating personal projects to further expand my skills and knowledge.
+<br />💜 In my spare time I'm a gamer, amateur game dev, artist, crocheter and cartoon/comic book enthusiast.
 
