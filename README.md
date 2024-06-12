@@ -1,7 +1,7 @@
 ### Hello! 👾
 I'm a recent university graduate and an aspiring web developer (frontend/fullstack/backend).
 <br /><br />✨ My skillset:
-- HTML, CSS, JavaScript, TypeScript, TailwindCSS, AngularJS, ReactJS
+- HTML, CSS, JavaScript, TypeScript, SCSS/Sass, AngularJS, ReactJS
 - NodeJS, Java, Spring Boot
 - SQL, GIT
 
