@@ -1,6 +1,6 @@
 ### Hello! 👾
 ✧ I'm currently hired as a Junior Programmer/Implementer while pursuing a master's degree in Computer Science.
-<br />✧ During work hours I mostly use PHP, HTML, JS and Low-Code
+<br />✧ During work hours I mostly use PHP, JS, SQL and Low-Code
 
 <br />✨ My skillset:
 - HTML, CSS, JavaScript, TypeScript, SCSS/Sass, AngularJS, ReactJS
