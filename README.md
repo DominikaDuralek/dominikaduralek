@@ -7,5 +7,5 @@
 - NodeJS, Java, Spring Boot, PHP
 - SQL, GIT
 
-<br />✧ In my spare time I'm a gamer, amateur game dev, artist, crocheter and cartoon/comic book enthusiast.
+<br />✧ In my spare time I'm a gamer, artist, crocheter and cartoon/comic book enthusiast.
 
